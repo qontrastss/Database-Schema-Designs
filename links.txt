@@ -1,0 +1,2 @@
+Link to schema of university's admission database design: https://lucid.app/lucidchart/invitations/accept/inv_92f2584b-a283-43f7-ac04-8c26746d1dd1
+Link to schema of ecommmerce site's database design: https://lucid.app/lucidchart/invitations/accept/inv_bbeb1103-d0ff-4ede-a896-f88647a75a82
